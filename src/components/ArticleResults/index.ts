@@ -1,0 +1,1 @@
+export { ArticleResults } from './ArticleResults';
