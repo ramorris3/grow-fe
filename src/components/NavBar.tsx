@@ -17,7 +17,7 @@ export const NavBar = () => {
       top="0"
       width="100vw"
       minHeight={NAVBAR_HEIGHT}
-      paddingX={4}
+      paddingX="5%"
       zIndex="sticky"
       borderBottomWidth="1px"
       borderBottomColor={colors.border}

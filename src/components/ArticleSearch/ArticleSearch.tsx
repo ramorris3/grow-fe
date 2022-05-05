@@ -31,7 +31,7 @@ export const ArticleSearch = () => {
       width="100%"
       height="100%"
       minH="100vh"
-      paddingX={{base: "5%", lg: "20%"}}
+      paddingX={{base: "5%", lg: "30%"}}
       paddingTop={NAVBAR_HEIGHT}
       paddingBottom="medium"
     >
@@ -47,7 +47,7 @@ export const ArticleSearch = () => {
           Most-viewed articles on Wikipedia
         </Text>
         <FilterWrap
-          direction={{base: 'column', lg: 'row'}}
+          direction={{base: 'column', xl: 'row'}}
           gap={{base: 8, lg: 4}}
           paddingBottom={12}
           borderBottomWidth="1px"
